@@ -91,6 +91,14 @@ Bot ini bisa:
 - Socket.io → realtime (opsional)
 
 ---
+#  ENV
+
+    DATABASE_URL=
+    POSTGRES_URL=
+    PRISMA_DATABASE_URL=
+    OPENAI_API_KEY=
+
+
 
 #  INSTALL DEPENDENCY
 
